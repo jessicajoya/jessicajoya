@@ -7,16 +7,13 @@
   <a href="https://www.linkedin.com/in/jessicajoya/" target="_blank">LinkedIn</a> •
 
 
-  <!-- Badges de stack -->
-  <p>
-    <img src="https://img.shields.io/badge/JS-⭐-?logo=javascript">
-    <img src="https://img.shields.io/badge/React-⭐-?logo=react">
-    <img src="https://img.shields.io/badge/TypeScript-⭐-?logo=typescript">
-    <img src="https://img.shields.io/badge/.NET-⭐-?logo=dotnet">
-    <img src="https://img.shields.io/badge/Python-⭐-?logo=python">
-    <img src="https://img.shields.io/badge/Azure-⭐-?logo=microsoftazure">
-    <img src="https://img.shields.io/badge/AWS-⭐-?logo=amazonaws">
-  </p>
+<!-- Tech icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,dotnet,python,azure,aws,git,github" />
+  </a>
+</p>
+
 </div>
 
 ---
