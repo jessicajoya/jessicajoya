@@ -1,9 +1,10 @@
 <div align="center">
 
-  <h1>Hi, I'm Jessica 👋 🇨🇴 <span style="font-size:16px; font-weight:normal;">Colombia</span></h1>
+  <h1>Hi, I'm Jessica 👋 🇨🇴 Colombia</h1>
 
 
-  <p><b>Colombian · Full-Stack Developer since 2021 · After management roles, I’m now focused on technical projects · Architect in progress · Master’s & Cloud student</b></p>
+
+  <p><b>cFull-Stack Developer since 2021 · After management roles, I’m now focused on technical projects · Architect in progress · Master’s & Cloud student</b></p>
 
   <!-- Links -->
   <a href="https://www.linkedin.com/in/jessicajoya" target="_blank">LinkedIn</a> •
