@@ -21,7 +21,7 @@
 
 ---
 
-### 🧰 Tech Highlights
+###  Tech Highlights
 
 - **Frontend:** React, TypeScript, HTML5, CSS  
 - **Backend:** Node.js, Python  
@@ -31,9 +31,9 @@
 
 ---
 
-### 🤝 Let’s Collaborate
+###  Let’s Collaborate
 
-I’m interested in **software architecture** and **full-stack** challenges, with a focus on **analytical platforms** and **data-driven solutions**.  
+I’m interested in software architecture and full-stack challenges, with a focus on analytical platforms and data-driven solutions.  
 Always open to learning, collaborating, and building meaningful tech 🌱
 
 ---
